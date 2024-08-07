@@ -1,0 +1,11 @@
+{
+  "name": "finance-application",
+  "version": "1.0.0",
+  "description": "The Finance Management application is created to manage personal finances by having a dashboard ,adding, editing, and deleting transactions features.\r This application is built using React, GraphQL, Node.js, and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
